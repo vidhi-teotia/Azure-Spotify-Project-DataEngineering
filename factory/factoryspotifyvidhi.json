@@ -1,0 +1,9 @@
+{
+	"name": "factoryspotifyvidhi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6db4d3c-2201-4424-a864-0b73d8581568",
+		"tenantId": "f6daf6b2-13bd-43fc-a74e-5343e2aab9bf"
+	}
+}
